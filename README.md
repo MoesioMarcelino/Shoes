@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
-    <br>
-    React RocketShoes
-</h1>
-
 <h4 align="center">
   NetShoes Clone App with React and Redux.
 </h4>
@@ -36,14 +30,14 @@
 
 ![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
 <p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
+  <a href="https://shoes.moesiomarcelino.com/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Redux](https://redux.js.org/)
